@@ -23,6 +23,9 @@ a:visited{
 table th{
     color: black;
 }
+table{
+    text-align: left;
+}
 .highlight {color: #f53f2c;}
 h1 {font-size: 138px;}
 h2 {font-family: 'Pacifico', cursive;

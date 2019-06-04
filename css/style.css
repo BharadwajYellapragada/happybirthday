@@ -27,7 +27,7 @@ table{
     text-align: left;
 }
 .highlight {color: #f53f2c;}
-h1 {font-size: 138px;}
+h1 {font-size: 138px;font-style: 'Raleway',sans-serif}
 h2 {font-family: 'Pacifico', cursive;
 line-height: 1.5;}
 h4 {font-weight: 600;}
